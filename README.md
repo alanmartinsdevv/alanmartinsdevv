@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there :v:
 
-<!--
-**alanmartinsdevv/alanmartinsdevv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Alan Martins, I'm a dev who loves technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Inside this space, I spend most of my time, it's where my imagination and creativity turn into code.
+
+<b>Connect with me:</b>
+<br>
+<br>
+<br>
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alanmartinsdev)
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-martins-2253572a6/)
+
