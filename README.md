@@ -15,3 +15,5 @@ Inside this space, I spend most of my time, it's where my imagination and creati
 <br>
 <br>
 [![alanmartinsdevv](https://github-readme-stats.vercel.app/api?username=alanmartinsdevv)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinsdevv)
